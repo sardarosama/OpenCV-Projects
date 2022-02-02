@@ -1,6 +1,6 @@
 """
 @author: Osama Shakeel
-Sit-Up Couonter using OpenCV and mediapipe
+Sit-Up Counter using OpenCV and mediapipe
 
 """
 import cv2
